@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: atlantis
+  annotations:
+    github.com/project-slug: poptech-global-tech-pvt-ltd/atlantis
+spec:
+  type: other
+  lifecycle: unknown
+  owner: devops-admins
